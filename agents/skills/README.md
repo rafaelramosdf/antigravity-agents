@@ -26,3 +26,7 @@ Abaixo está a lista de habilidades disponíveis e seus propósitos:
 - **[web-artifacts-builder](./web-artifacts-builder/SKILL.md)**: Criação de artefatos web complexos e multi-componentes (React, Tailwind) com suporte a roteamento e gerenciamento de estado.
 - **[webapp-testing](./webapp-testing/SKILL.md)**: Testes automatizados end-to-end para aplicações web, garantindo funcionalidade e qualidade visual.
 - **[xlsx](./xlsx/SKILL.md)**: Ferramentas para criação, edição e análise de planilhas Excel, com suporte a fórmulas e análise de dados.
+
+## Referências
+
+- [Claude Skills](https://github.dev/anthropics/skills/tree/main/skills)
