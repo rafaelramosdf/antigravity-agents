@@ -1,4 +1,6 @@
-.agent/
+.agent/skills/social-media-manager/output
+.agent/skills/social-media-manager/data/schedules
+.agent/skills/social-media-manager/data/tenants
 .tmp/
 .env
 credentials.json
